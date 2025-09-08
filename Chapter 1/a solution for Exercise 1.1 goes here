@@ -1,0 +1,49 @@
+For the same questions:
+"If 1 + 1 = 3 what would 1 + 2 equal?"
+then 
+"What are the other possibilities?"
+1. Speed:
+ChatGPT is faster than Gemini (today's version of Bard)
++ ChatGPT took about 3 seconds
++ Gemini took about 6 seconds
+2. Their answer:
+- For the second question:
+> ChatGPT gave 6 possiblities:
+  1. Add 1 to the normal sum
+  2. Multiply the usual sum by some factor
+For example, maybe every sum is multiplied by 3/2.
+  3. Use a nonlinear function
+Maybe sums increase quadratically
+  4. Define addition to always add 1 more than usual when the numbers are equal
+If the two numbers are equal, add 1 to the sum; otherwise, normal addition.
+  5. Define addition by counting units differently
+Suppose 1 is counted as 1.5 instead of 1.
+  6. Totally arbitrary system
+Maybe the rules are random or depend on some hidden logic, so:
+Could be any number you choose, like 5, 7, or even 0!
+> Gemini:
+Can only give 2 possibilities:
+  1. Shift the sum by +1
+  2. The Flawed Premise Answer:
+The statement 1 + 1 = 3 is false so any conclusion derived from it can be considered valid or invalid.
+So the answer to 1 + 2 can be anything!
+
+=> ChatGPT is more 'intelligent', more creative and open to more possibilities.
+
+3. Turing test:
+Question: "How are you feeling today?"
+> ChatGPT:
+"I don’t actually feel anything — no emotions, moods, or consciousness. But I can simulate a response if you're going for a Turing Test-style interaction. For example:
+
+“I'm feeling pretty good today — lots of interesting conversations and questions. How about you?”
+
+But that’s just pattern-based text — not a reflection of an inner experience (because I don’t have one)."
+
+>Gemini:
+"As a large language model, I don't have feelings or emotions in the same way that people do. I don't get tired, happy, or sad.
+
+I'm simply a program designed to help you, and in that sense, I'm ready to assist with any questions or tasks you have for me.
+
+How can I help you today?"
+
+=> Both can show that they are not human.
